@@ -41,13 +41,13 @@ header #logo span {
 @media (min-width: 200px) {
   #logo {
     float: left;
-    width: 100%;
+    width: 20%;
     font-size: 5px;
   }
 
   #about {
     float: right;
-    width: 67%;
+    width: 50%;
   }
 }
 
