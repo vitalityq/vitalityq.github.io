@@ -38,19 +38,6 @@ header #logo span {
   font-family: 'Suez One', serif;
 }
 
-@media (min-width: 200px) {
-  #logo {
-    float: left;
-    width: 20%;
-    font-size: 5px;
-  }
-
-  #about {
-    float: right;
-    width: 50%;
-  }
-}
-
 @media (min-width: 701px) {
   #logo {
     float: left;
@@ -68,7 +55,7 @@ header #logo span {
   #logo {
     margin-top: 15px;
     width: 100%;
-    font-size: 1.5em;
+    font-size: 0.9em;
   }
 
   #about {
